@@ -1,8 +1,8 @@
 # FranceJS
 
-FranceJS est un projet actuellement à l'étude de création d'un association française pour les utilisateurs de Javascript.
+FranceJS est un projet, actuellement à l'étude, de création d'une association française pour les utilisateurs de Javascript.
 
-Par utilisateur, nous pensons : aux développeurs, aux entreprises, aux étudiants et aux enseignants.
+Par utilisateur, nous pensons aux développeurs, aux entreprises, aux étudiants et aux enseignants.
 
 Il existe une multitude de groupes sur Javascript, mais aucun regroupement formel avec un structure bien identifiée
 qui puisse servir de porte voix à la communauté Javascript francophone.
