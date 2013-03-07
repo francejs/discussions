@@ -18,11 +18,11 @@ Ces objectifs sont en discussion actuellement, merci de proposer vos idées :
 * fédérer et dynamiser le tissu Javascript local :
  * faciliter le déplacement de speakers d'un groupe à l'autre (covoiturage, financement billets de train, nuitées d'hôtel),
  * apport d'un soutient logistique (mis en commun de matériel, accueil d'évènements dans les entreprises adhérentes),
- * faciliter la création de novueau groupes locaux (outils style ApéroPHP, promotion etc...),
+ * faciliter la création de nouveau groupes locaux (outils style ApéroPHP, promotion etc...),
  * se mettre en relation avec des sponsors pour obtenir des goodies (t-shirt, stickers etc...).
 * améliorer la vision de JS en entreprise :
  * mettre en lumière les success stories Javascript (GoogleDocs, Netvibes etc...),
- * lister les outils qui permettent d'inductrialiser les processus de développement Javascript (JSHint, JSLint etc.),
+ * lister les outils qui permettent d'industrialiser les processus de développement Javascript (JSHint, JSLint etc.),
  * lister les domaines d'application de Javascript,
  * création de livre blancs.
 * militer pour un intégration précoce de Javascript dans les cursus scolaire.
