@@ -26,6 +26,7 @@ Ces objectifs sont en discussion actuellement, merci de proposer vos idées :
  * lister les domaines d'application de Javascript,
  * création de livre blancs.
 * militer pour un intégration précoce de Javascript dans les cursus scolaire.
+* porter le Javascript français à l'international.
 
 ## Financement
 
